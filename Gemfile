@@ -40,3 +40,5 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'simple_form'
 gem 'country_select'
+
+gem 'tzinfo-data'
